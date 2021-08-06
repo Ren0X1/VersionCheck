@@ -3,19 +3,6 @@
 🐌 InfamesRP|fivem://connect/cfx.re/join/5pp95a
 🐌 ForasterosRP|fivem://connect/cfx.re/join/9xbbxk
 🐌 RATX|fivem://connect/localhost:30300
-RATX|fivem://connect/localhost:30300
-RATX|fivem://connect/localhost:30300
-RATX|fivem://connect/localhost:30300
-RATX|fivem://connect/localhost:30300
-RATX|fivem://connect/localhost:30300
-RATX|fivem://connect/localhost:30300
-RATX|fivem://connect/localhost:30300
-RATX|fivem://connect/localhost:30300
-RATX|fivem://connect/localhost:30300
-RATX|fivem://connect/localhost:30300
-RATX|fivem://connect/localhost:30300
-RATX|fivem://connect/localhost:30300
-RATX|fivem://connect/localhost:30300
-RATX|fivem://connect/localhost:30300
-RATX|fivem://connect/localhost:30300
-RATX|fivem://connect/localhost:30300
+🦕 Valgero|steam://connect/extasis.servegame.com:37018
+🦕 Genesis|steam://connect/extasis.servegame.com:37021
+🦕 Genesis 2|steam://connect/extasis.servegame.com:37030
