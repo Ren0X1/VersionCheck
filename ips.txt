@@ -1,5 +1,5 @@
-fivem://connect/cfx.re/join/44ljo9
-fivem://connect/play.strangersrp.es
-fivem://connect/cfx.re/join/5pp95a
-fivem://connect/cfx.re/join/9xbbxk
-fivem://connect/localhost:30300
+OverLifeRP|fivem://connect/cfx.re/join/44ljo9
+StrangersRP|fivem://connect/play.strangersrp.es
+InfamesRP|fivem://connect/cfx.re/join/5pp95a
+ForasterosRP|fivem://connect/cfx.re/join/9xbbxk
+RATX|fivem://connect/localhost:30300
